@@ -1,1 +1,106 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="IPTV" tvg-name="Euronews",Euronews
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMGY2ZjMzODAtNjc3Zi00OWM3LWIwZmEtNjMzYTczYjUwOWVmIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=0f6f3380-677f-49c7-b0fa-633a73b509ef&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="IPTV" tvg-name="Euronews",Euronews (1)
+https://jmp2.uk/sam-ES260000968.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="IPTV" tvg-name="Euronews",Euronews (2)
+https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=555c3ef2-e579-11ef-913f-8e6401581819
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="IPTV" tvg-name="DW Alemania",DW Alemania 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="IPTV" tvg-name="DW Alemania (2)",DW Alemania (2)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="IPTV" tvg-name="RT Español",RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN Español",CGTN Español
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN Español (1)",CGTN Español (1)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN Español (2)",CGTN Español (2)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="RTVE Noticias",RTVE Noticias
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="RTVE Noticias (1)",RTVE Noticias (1)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg logo="https://i.imgur.com/ow1HArj.png" group-title="IPTV" tvg-name="TVE Internacional",TVE Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="IPTV" tvg-name="La 1",La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="IPTV" tvg-name="La 2",La 2
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="IPTV" tvg-name="ADN40",ADN40 Mexico
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="IPTV" tvg-name="Milenio TV",Milenio TV
+http://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe17ac18aa35fc547b29aba81fa75421.webp" group-title="IPTV" tvg-name="Monterey TV6",Monterey TV6
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_10_mx.png" group-title="IPTV" tvg-name="Canal 10",Canal 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="IPTV" tvg-name="CBN USA",CBN USA
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyw6BJl4O-KVIZtOaoKv9o3foYCEvuNpB15TyUC=s900-c-k-c0xffffffff-no-rj-mo" group-title="IPTV" tvg-name="Cali TV",Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" group-title="IPTV" tvg-name="Teleritmo",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b24QKcq.png" group-title="IPTV" tvg-name="Euronews Serbia",Euronews Serbia
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/c/c7/Kurir_televizija.png" group-title="IPTV" tvg-name="Kurir TV",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/RedTV-Srbija-Logo.png/220px-RedTV-Srbija-Logo.png" group-title="IPTV" tvg-name="Red TV",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png?20200618045421" group-title="IPTV" tvg-name="TV Hram",TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="IPTV" tvg-name="N1",N1
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-logo="https://novitreciput.org/wp-content/uploads/2020/08/Al-Jazeera-Balkans.jpg" group-title="IPTV" tvg-name="Al Jazeera Balkans",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/c677db904ec8a8a821a7be57a4ce2625-1.png" group-title="IPTV" tvg-name="IDJTV",IDJTV
+https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
+#EXTINF:-1 tvg-logo="https://www.radios.rs/images/radios/logo-170x100x2.png" group-title="IPTV" tvg-name="Radio S TV",Radio S TV
+https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="IPTV" tvg-name="Radio Lola [Not 24/7]",Radio Lola [Not 24/7]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Jeka Serbia.rs",Muzzik Jeka Serbia.rs
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik ZZ Serbia.rs",Muzzik ZZ Serbia.rs
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik TikTak Serbia.rs",Muzzik TikTak Serbia.rs
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik MOBA Serbia.rs",Muzzik MOBA Serbia.rs
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik RockRoll Serbia",Muzzik RockRoll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik TV Serbia.rs",Muzzik TV Serbia.rs
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Worldwide Serbia.rs",Muzzik Worldwide Serbia.rs
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik PopStar Serbia.rs",Muzzik PopStar Serbia.rs
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Sense Serbia.rs",Muzzik Sense Serbia.rs
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Mts Serbia.rs",Muzzik Mts Serbia.rs
+https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Flashback Serbia.rs",Muzzik Flashback Serbia.rs
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="IPTV" tvg-name="Muzzik ELECTRO Serbia.rs",Muzzik ELECTRO Serbia.rs
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg logo="https://iptvx.one/picons/bridge-tv.png" group-title="IPTV" tvg-name="Bridge (EDTV 576p)",Bridge (EDTV 576p)
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 tvg logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="IPTV" tvg-name="Bridge Classic (EDTV 576p)",Bridge Classic (EDTV 576p)
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg logo="https://iptvx.one/picons/zhar-ptica.png" group-title="IPTV" tvg-name="Жар-Птица (EDTV 480p)",Жар-Птица (EDTV 480p)
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg logo="https://iptvx.one/picons/muztv.png" group-title="IPTV" tvg-name="МузТВ (WSVGA)",МузТВ (WSVGA)
+http://stream01.vnet.am/MuzTv/mono.m3u8
+#EXTINF:-1 tvg logo="http://epg.one/img2/6266.png" group-title="IPTV" tvg-name="Музыка 1 Int",Музыка 1 Int
+http://autopilot.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg logo="http://epg.one/img2/6268.png" group-title="IPTV" tvg-name="Музыка 2 Int",Музыка 2 Int
+http://autopilot.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg logo="http://epg.one/img2/6270.png" group-title="IPTV" tvg-name="Музыка Кино Int",Музыка Кино Int
+http://autopilot.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="IPTV" tvg-name="Музыка Первого (EDTV 576p)",Музыка Первого (EDTV 576p)
+http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
+#EXTINF:-1 tvg logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="IPTV" tvg-name="Страна FM",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+/wanda.m3u8?id=mKCieTImjvU
 
