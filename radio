@@ -1,0 +1,170 @@
+#EXTM3U
+
+#EXTINF:-1 radio="true" tvg-logo="https://player.radiolola.rs/img/CD/cd-lola.png" group-title="Radio Hit" tvg-name="Radio Lola",Radio Lola
+http://streaming.radiolola.rs/radiolola.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://player.radiolola.rs/img/CD/cd-lola.png" group-title="Radio Hit" tvg-name="Radio Lola NS",Radio Lola NS
+http://streaming.radiolola.rs/radiololanovisad.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://player.radiolola.rs/img/CD/cd-lola.png" group-title="Radio Hit" tvg-name="Radio Lola NI",Radio Lola NI
+http://streaming.radiolola.rs/radiololanis.mp3
+#EXTINF:-1 radio="true" tvg-logo="http://www.exyuradio.net/pub/catalog/lipa.jpg" group-title="Radio Hit" tvg-name="LIPA KRAJ MORAVE",LIPA KRAJ MORAVE
+http://radio.dukahosting.com:8077/stream
+#EXTINF:-1 radio="true" tvg-logo="https://hitfm.rs/wp-content/uploads/sites/3/2022/05/hitfm.png" group-title="Radio Hit" tvg-name="HIT FM", HIT FM
+https://streaming.hitfm.rs/hit.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://karolina.rs/wp-content/uploads/sites/2/2022/05/kr.png" group-title="Radio Hit" tvg-name="Radio Karolina", Radio Karolina
+https://streaming.karolina.rs/karolina.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.naxi.rs/images/naxi_logo.png" group-title="Radio Hit" tvg-name="Naxi Radio", Naxi Radio
+https://naxi128.streaming.rs:9152/;*.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.okradio.net/wp-content/uploads/2021/11/ok-logo-m.png" group-title="Radio Hit" tvg-name="OK Radio", OK Radio
+https://sslstream.okradio.net/;*.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://tdiradio.com/wp-content/uploads/2022/05/TDI-crna-Logo-png-e1647953245156.png" group-title="Radio Hit" tvg-name="TDI Radio", TDI Radio
+https://streaming.tdiradio.com/tdiradio.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.dromosfm.gr/wp-content/uploads/2017/03/dromosfmlogo3d-retina.png" group-title="Radio Hit" tvg-name="DROMOS FM", DROMOS FM
+https://stream.rcs.revma.com/10q3enqxbfhvv
+#EXTINF:-1 radio="true" tvg-logo="https://banja2.com/wp-content/uploads/2021/10/cropped-Logo-Radio-Banja-2-512.png" group-title="Radio Hit" tvg-name="Radio Banja 2", Radio Banja 2
+https://stream.iradio.pro/proxy/radiobanja2?mp=%2Fstream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk-Stars-500px.png" group-title="Radio Hit" tvg-name="Radio S Folk Stars", Radio S Folk Stars
+https://stream.radios.rs:9024/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk500px.png" group-title="Radio Hit" tvg-name="Radio S Pop Folk", Radio S Pop Folk
+https://stream.radios.rs:9046/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Strimovi/Latino1000px.png" group-title="Radio Hit" tvg-name="Radio S Latino", Radio S Latino
+https://stream.radios.rs:9054/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Narodni-500px.png" group-title="Radio Hit" tvg-name="Radio S Narodni", Radio S Narodni
+https://stream.radios.rs:9016/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Juzni-500px.png" group-title="Radio Hit" tvg-name="Radio S Južni", Radio S Južni
+https://stream.radios.rs:9038/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Xtra-350x350px.png" group-title="Radio Hit" tvg-name="Radio S Xtra", Radio S Xtra
+https://stream.radios.rs:9026/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Pop-and-Rock-350x350px.png" group-title="Radio Hit" tvg-name="Radio S Pop & Rock", Radio S Pop & Rock
+https://stream.radios.rs:9028/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Starogradski500px.png" group-title="Radio Hit" tvg-name="Radio S Starogradski", Radio S Starogradski
+https://stream.radios.rs:9064/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Strimovi/Zavicaj1000px.png" group-title="Radio Hit" tvg-name="Radio S Zavičaj", Radio S Zavičaj
+https://stream.radios.rs:9040/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Ex-Yu-Rock-350x350px.png" group-title="Radio Hit" tvg-name="Radio S Ex-Yu", Radio S Ex-Yu
+https://stream.radios.rs:9042/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Sport1000px.png" group-title="Radio Hit" tvg-name="Radio S Sport", Radio S Sport
+https://stream.radios.rs:9078/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-TrapRap-500px.png" group-title="Radio Hit" tvg-name="Radio S Trap&Rap", Radio S Trap&Rap
+https://stream.radios.rs:9030/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/2000-te%20Folk1000px.png" group-title="Radio Hit" tvg-name="Radio S 2000-te Folk", Radio S 2000-te Folk
+https://stream.radios.rs:9060/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Classic1000px.png" group-title="Radio Hit" tvg-name="Radio S Classic", Radio S Classic
+https://stream.radios.rs:9074/stream
+#EXTINF:-1 radio="true" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/ModernClassic1000px.png" group-title="Radio Hit" tvg-name="Radio S Modern Classic", Radio S Modern Classic
+https://stream.radios.rs:9072/stream
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/XHPAG_LaLupe105.3_logo.png" group-title="Radio Hit" tvg-name="La Lupe", La Lupe
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHLUPEFM_SC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/LA_CALIENTE_92.3_FM.png" group-title="Radio Hit" tvg-name="La Caliente", La Caliente
+https://playerservices.streamtheworld.com/api/livestream-redirect/XETFM_SC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1689050754038779904/FXp9QAqM_400x400.jpg" group-title="Radio Hit" tvg-name="Classic FM", Classic FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSIC106_SC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/58/39/58391bd38af9a2eaef2f89cea458cdb4.jpg" group-title="Radio Hit" tvg-name="Hits FM", Hits FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITS106_SC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/bcf7d1e32a85f5aa164d35f03a81625e.jpg" group-title="Radio Hit" tvg-name="Saltillo", Saltillo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHQCFM_SC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s68027/images/logog.png" group-title="Radio Hit" tvg-name="La Comadre", La Comadre
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVTHFM_SC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/e8/06/e8061084593ecb56ff6865a4927bfc4a.jpg" group-title="Radio Hit" tvg-name="La T Grande XET", La T Grande XET
+https://playerservices.streamtheworld.com/api/livestream-redirect/XETAM_SC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/6d/16/6d167505a5775143e4255d417ed8bd24.jpg" group-title="Radio Hit" tvg-name="FMTU", FMTU
+https://playerservices.streamtheworld.com/api/livestream-redirect/FMTU_SC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://w1.pngwing.com/pngs/804/799/png-transparent-yellow-los40-logo-fm-broadcasting-technology-text-line-area.png" group-title="Radio Hit" tvg-name="Los 40 Principales", Los 40 Principales
+https://26293.live.streamtheworld.com/LOS40_MEXICO_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/7664.v10.png" group-title="Radio Hit" tvg-name="Radio Impacto", Radio Impacto
+https://stream11.mexiserver.com:9026/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/10473.v11.png" group-title="Radio Hit" tvg-name="Radio Ranchito", Radio Ranchito
+https://streamingcwsradio30.com:7005/stream.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/89285.v5.png" group-title="Radio Hit" tvg-name="La Mejor", La Mejor
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC?dist=onlineradiobox
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/66587.v11.png" group-title="Radio Hit" tvg-name="Radio S1", Radio S1
+https://stream.radios.rs:9000/;stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/66590.v19.png" group-title="Radio Hit" tvg-name="Radio S2", Radio S2
+https://stream.radios.rs:9002/;stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/66591.v18.png" group-title="Radio Hit" tvg-name="Radio S3", Radio S3
+https://stream.radios.rs:9004/;stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/66592.v14.png" group-title="Radio Hit" tvg-name="Radio S4", Radio S4
+https://stream.radios.rs:9006/;stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/12118.v7.png" group-title="Radio Hit" tvg-name="Antena Radio Krusevac", Antena Radio Krusevac
+http://antenaradio.org:4560/;*mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/12861.v6.png" group-title="Radio Hit" tvg-name="Radio Bravo", Radio Bravo
+http://91.221.134.252:8002/;*.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/76827.v4.png" group-title="Radio Hit" tvg-name="Naxi EX YU Radio", Naxi EX YU Radio
+http://naxidigital-exyu128.streaming.rs:8240/;*.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/13254.v4.png" group-title="Radio Hit" tvg-name="Bum Bum Radio", Bum Bum Radio
+http://bumbum-stream.netlogic.rs:8000/;*mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/22208.v26.png" group-title="Radio Hit" tvg-name="Radio Tiempo 105.9 FM", Radio Tiempo 105.9 FM
+https://27353.live.streamtheworld.com/RT_MEDELLINAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/25334.v13.png" group-title="Radio Hit" tvg-name="Boom FM", Boom FM
+https://streamming.dobitsoluciones.com/livestream/1
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/46408.v13.png" group-title="Radio Hit" tvg-name="La Kalle", La Kalle
+https://27363.live.streamtheworld.com/LA_KALLE.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/21464.v27.png" group-title="Radio Hit" tvg-name="Olímpica Stereo", Olímpica Stereo
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/124390.v4.png" group-title="Radio Hit" tvg-name="Radio Melos", Radio Melos
+https://radio.en.rs:8200/radiomelos.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/russkaya-volna.png" group-title="Radio Hit" tvg-name="Русская Волна", Русская Волна
+https://ru3.amgradio.ru/RuWave48
+#EXTINF:-1 radio="true" tvg-logo="https://kuasark.com/files/stations-logos/horosee-radio.png" group-title="Radio Hit" tvg-name="Хорошее радио", Хорошее радио
+https://hr.amgradio.ru/Horoshee
+#EXTINF:-1 radio="true" tvg-logo="https://hypefm.ru/wp-content/uploads/2020/08/cropped-cropped-logohypefm-2.png" group-title="Radio Hit" tvg-name="Хайп FM", Хайп FM
+https://hfm.amgradio.ru/HypeFM
+#EXTINF:-1 radio="true" tvg-logo="https://www.radiobells.com/stations/deepfm.jpg" group-title="Radio Hit" tvg-name="DEEP FM Radio", DEEP FM Radio
+https://deep.amgradio.ru/DeepFM
+#EXTINF:-1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/rufm.png" group-title="Radio Hit" tvg-name="Русское FM", Русское FM
+https://rufm.amgradio.ru/rufm
+#EXTINF:-1 radio="true" tvg-logo="https://online-red.com/images/radio-logo/rupesni.png" group-title="Radio Hit" tvg-name="Русские Песни", Русские Песни
+https://rusongs.amgradio.ru/rusongs
+#EXTINF:-1 radio="true" tvg-logo="https://online-red.com/images/radio-logo/radio-classic.png" group-title="Radio Hit" tvg-name="Классик Радио", Классик Радио
+http://jfm1.hostingradio.ru:14536/rcstream.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://remixfm.ru/wp-content/uploads/cropped-logoremix-2.png" group-title="Radio Hit" tvg-name="Remix FM", Remix FM
+https://rmx.amgradio.ru/RemixFM
+#EXTINF:-1 radio="true" tvg-logo="https://radiopotok.ru/f/station/512/1594.png" group-title="Radio Hit" tvg-name="Русский Рок", Русский Рок
+https://rock.amgradio.ru/RusRock
+#EXTINF:-1 radio="true" tvg-logo="https://pcradio.ru/images/stations/62ea3ebfc455f.jpg" group-title="Radio Hit" tvg-name="Dance Core", Dance Core
+https://radiorecord.hostingradio.ru/dc96.aacp
+#EXTINF:-1 radio="true" tvg-logo="https://www.naxi.rs/media/9c4efc-latino.png" group-title="Radio Hit" tvg-name="Naxi Latino", Naxi Latino
+https://naxidigital-latino128ssl.streaming.rs:8232/;*mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.naxi.rs/media/14def3-love.png" group-title="Radio Hit" tvg-name="Naxi Love Radio", Naxi Love Radio
+https://naxidigital-love128ssl.streaming.rs:8102/;*mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.naxi.rs/media/c4295f-exyurock-logo.png" group-title="Radio Hit" tvg-name="NAXI EX-YU-ROCK RADIO", NAXI EX-YU-ROCK RADIO
+https://naxidigital-exyurock128ssl.streaming.rs:8402/;*mp3
+#EXTINF:-1 radio="true" tvg-logo="https://radio996fm.rs/wp-content/uploads/2022/02/996.jpg" group-title="Radio Hit" tvg-name="Radio 996FM", Radio 996FM
+https://radio.en.rs/radio/8000/radio.mp3
+#EXTINF:-1 radio="true" tvg-logo="http://www.exyuradio.net/pub/catalog/radio-31-plus-uzice-uzivo.jpg" group-title="Radio Hit" tvg-name="Radio 31+",Radio 31+
+https://cast4.asurahosting.com/proxy/dejan/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/67258.v5.png" group-title="Radio Hit" tvg-name="RADIO DŽENARIKA",RADIO DŽENARIKA
+http://stream.dzenarika.net:8000/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/21661.v26.png" group-title="Radio Hit" tvg-name="BLURADIO",BLURADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://tntmusic.ru/static/img/logo@x2.png" group-title="Radio Hit" tvg-name="ТНТ MUSIC RADIO",ТНТ MUSIC RADIO
+https://tntradio.hostingradio.ru:8027/tntradio128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Radio Hit" tvg-name="Авторадио",Авторадио
+http://ic7.101.ru:8000/v3_1
+#EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Radio Hit" tvg-name="Радио DFM",Радио DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Radio Hit" tvg-name="Дорожное Радио",Дорожное Радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/xit-fm.png" group-title="Radio Hit" tvg-name="Хит FM",Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Radio Hit" tvg-name="Юмор FM",Юмор FM
+http://ic7.101.ru:8000/v5_1
+#EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/retro-fm.png" group-title="Radio Hit" tvg-name="Ретро FM",Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio.png" group-title="Radio Hit" tvg-name="Наше радио",Наше радио
+http://nashe1.hostingradio.ru:80/nashe-256
+#EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/radio-mayak.png" group-title="Radio Hit" tvg-name="Радио Маяк",Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/hitorsk.png" group-title="Radio Hit" tvg-name="Радио Хит",Радио Хит
+https://hit.trkeurasia.ru/hit128
+#EXTINF:-1 radio="true" tvg-logo="https://radio-online.ru/uploads/posts/assets/image/radio/180/free-music-rfm.webp" group-title="Radio Hit" tvg-name="RFM",RFM
+https://radio-holding.ru:9433/rfm
+#EXTINF:-1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/likefm.png" group-title="Radio Hit" tvg-name="Like FM",Like FM
+https://srv21.gpmradio.ru:8443/stream/air/aac/64/219
+#EXTINF:-1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/Puls.png" group-title="Radio Hit" tvg-name="Пульс Радио",Пульс Радио
+https://5.restream.one/1252_1
+#EXTINF:-1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/europa-plus.png" group-title="Radio Hit" tvg-name="Европа Плюс",Европа Плюс
+https://europaplus.hostingradio.ru:8030/ep128
+#EXTINF:-1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/rus.png" group-title="Radio Hit" tvg-name="Радио Русь",Радио Русь
+https://radio-holding.ru:9433/rus
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/46641.v2.png" group-title="Radio Hit" tvg-name="Radio Velika 92.2",Radio Velika 92.2
+http://s37.myradiostream.com:9192/;;
