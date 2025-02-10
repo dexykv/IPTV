@@ -42,6 +42,8 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" group-title="IPTV" tvg-name="Teleritmo",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" group-title="IPTV" tvg-name="Sol Música España",Sol Música España
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b24QKcq.png" group-title="IPTV" tvg-name="Euronews Serbia",Euronews Serbia
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/c/c7/Kurir_televizija.png" group-title="IPTV" tvg-name="Kurir TV",Kurir TV
@@ -101,5 +103,24 @@ http://autopilot.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="IPTV" tvg-name="Музыка Первого (EDTV 576p)",Музыка Первого (EDTV 576p)
 http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
 #EXTINF:-1 tvg logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="IPTV" tvg-name="Страна FM",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-/wanda.m3u8?id=mKCieTImjvU
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8/wanda.m3u8?id=mKCieTImjvU
+#EXTINF:-1 tvg logo="https://yt3.ggpht.com/NRCQpVxbetuJyjtPjotQ4H7rq3nfFm0J2VEc2aBs7XQV7-lBFqZMfu2tGZNGOfl7TPPdQjCMxQ=s200" group-title="IPTV" tvg-name="RU.TV Rusia",RU.TV Rusia
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="IPTV" tvg-name="Radio Italia TV",Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="IPTV" tvg-name="El País",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="IPTV" tvg-name="El Confidencial",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="IPTV" tvg-name="¡HOLA! Play",¡HOLA! Play
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+
+
+
+
+
+
+
+
+
+
