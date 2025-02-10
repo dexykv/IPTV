@@ -12,17 +12,17 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="IPTV" tvg-name="RT Español",RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN
+#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN (1)
+#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN (1)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN (2)
+#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN (2)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="24h",24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="24h",24h (1)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg logo="https://i.imgur.com/ow1HArj.png" group-title="IPTV" tvg-name="TVE Internacional",TVE Internacional
+#EXTINF:-1 tvg logo="https://i.imgur.com/ow1HArj.png" group-title="IPTV" tvg-name="TVE",TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="IPTV" tvg-name="La 1",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
