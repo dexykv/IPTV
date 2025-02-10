@@ -59,7 +59,7 @@ https://live.rednet.rs/providus/redtv_multi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png?20200618045421" group-title="IPTV" tvg-name="TV Hram",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="IPTV" tvg-name="N1 RS",N1 RS
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="IPTV" tvg-name="N1 HR",N1 HR
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://novitreciput.org/wp-content/uploads/2020/08/Al-Jazeera-Balkans.jpg" group-title="IPTV" tvg-name="Al Jazeera Balkans",Al Jazeera Balkans
