@@ -6,21 +6,21 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://jmp2.uk/sam-ES260000968.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="IPTV" tvg-name="Euronews",Euronews (2)
 https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=555c3ef2-e579-11ef-913f-8e6401581819
-#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="IPTV" tvg-name="DW Alemania",DW Alemania 
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="IPTV" tvg-name="DW",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="IPTV" tvg-name="DW Alemania (2)",DW Alemania (2)
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="IPTV" tvg-name="DW",DW (2)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="IPTV" tvg-name="RT Español",RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN Español",CGTN Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN Español (1)",CGTN Español (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN (1)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN Español (2)",CGTN Español (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN (2)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="RTVE Noticias",RTVE Noticias
+#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="24h",24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="RTVE Noticias (1)",RTVE Noticias (1)
+#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="24h",24h (1)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/ow1HArj.png" group-title="IPTV" tvg-name="TVE Internacional",TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
@@ -36,8 +36,8 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 tvg logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="IPTV" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="IPTV" tvg-name="ADN40",ADN40 Mexico
-https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="IPTV" tvg-name="ADN40",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="IPTV" tvg-name="Milenio TV",Milenio TV
 http://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe17ac18aa35fc547b29aba81fa75421.webp" group-title="IPTV" tvg-name="Monterey TV6",Monterey TV6
@@ -52,8 +52,6 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" group-title="IPTV" tvg-name="Sol Música España",Sol Música España
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b24QKcq.png" group-title="IPTV" tvg-name="Euronews Serbia",Euronews Serbia
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/c/c7/Kurir_televizija.png" group-title="IPTV" tvg-name="Kurir TV",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/RedTV-Srbija-Logo.png/220px-RedTV-Srbija-Logo.png" group-title="IPTV" tvg-name="Red TV",Red TV
