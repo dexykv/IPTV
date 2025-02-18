@@ -174,10 +174,8 @@ http://autopilot.catcast.tv/content/37739/index.m3u8
 http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
 #EXTINF:-1 tvg logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="IPTV" tvg-name="Страна FM",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8/wanda.m3u8?id=mKCieTImjvU
-#EXTINF:-1 tvg logo="https://yt3.ggpht.com/NRCQpVxbetuJyjtPjotQ4H7rq3nfFm0J2VEc2aBs7XQV7-lBFqZMfu2tGZNGOfl7TPPdQjCMxQ=s200" group-title="IPTV" tvg-name="RU TV (SD)",RU TV (SD)
-https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-#EXTINF:-1 tvg logo="https://yt3.ggpht.com/NRCQpVxbetuJyjtPjotQ4H7rq3nfFm0J2VEc2aBs7XQV7-lBFqZMfu2tGZNGOfl7TPPdQjCMxQ=s200" group-title="IPTV" tvg-name="RU TV (HD)",RU TV (HD)
-https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 tvg logo="https://yt3.ggpht.com/NRCQpVxbetuJyjtPjotQ4H7rq3nfFm0J2VEc2aBs7XQV7-lBFqZMfu2tGZNGOfl7TPPdQjCMxQ=s200" group-title="IPTV" tvg-name="RU TV",RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1 tvg logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="IPTV" tvg-name="Radio Italia TV",Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" group-title="IPTV" tvg-name="m2o Italia",m2o Italia IT
