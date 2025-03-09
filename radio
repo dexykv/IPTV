@@ -100,6 +100,14 @@ https://streamming.dobitsoluciones.com/livestream/1
 https://27363.live.streamtheworld.com/LA_KALLE.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/21464.v27.png" group-title="Radio Hit" tvg-name="Olímpica Stereo", Olímpica Stereo
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/rumbera-barranquilla.png" group-title="Radio Hit" tvg-name="Rumbera Estéreo", Rumbera Estéreo 
+https://sc10.conectarhosting.com/proxy/rumberastereo?mp=/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/reina.png" group-title="Radio Hit" tvg-name="La Reina 98.6 FM", La Reina 98.6 FM 
+https://27443.live.streamtheworld.com/RNA_BARRANQUILLA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/tropicana-barranquilla.png" group-title="Radio Hit" tvg-name="Tropicana 89.1 FM", Tropicana 89.1 FM
+https://26483.live.streamtheworld.com/TROPICANA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/mixradio-fm-barranquilla.png" group-title="Radio Hit" tvg-name="Mixradio FM", Mixradio FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BARRANQUILLAAAC_SC
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/124390.v4.png" group-title="Radio Hit" tvg-name="Radio Melos", Radio Melos
 https://radio.en.rs:8200/radiomelos.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/russkaya-volna.png" group-title="Radio Hit" tvg-name="Русская Волна", Русская Волна
