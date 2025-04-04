@@ -80,8 +80,6 @@ http://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_10_mx.png" group-title="IPTV" tvg-name="Canal 10",Canal 10
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 tvg-id="USBB3200016HO" tvg-name="USBB3200016HO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200016HO_20241015T223521SQUARE.png" group-title="IPTV" tvg-name="Telemundo Al Día",Telemundo Al Día
-https://jmp2.uk/sam-USBB3200016HO.m3u8
 #EXTINF:-1 tvg-id="US3000005RS" tvg-name="US3000005RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20241014T232258SQUARE.png" group-title="IPTV" tvg-name="Noticias Telemundo Ahora", Noticias Telemundo Ahora
 https://jmp2.uk/sam-US3000005RS.m3u8
 #EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title="IPTV" tvg-name="Noticias Univision 24/7", Noticias Univision 24/7
@@ -114,6 +112,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22963&ads.content_duration=18000&ads.episode_id=55592&ads.show_id=1733&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=WappTV&ads.episodetitle=WappTV&ads.keywords=wapptv%2Cspanish%2Cespanol&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="IPTV" tvg-name="Radio Lola [Not 24/7]",Radio Lola [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://karolina.rs/wp-content/uploads/sites/2/2022/05/kr.png" group-title="IPTV" tvg-name="Karolina Radio",Karolina Radio
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-logo="https://hitfm.rs/wp-content/uploads/sites/3/2022/05/hitfm.png" group-title="IPTV" tvg-name="HitFM Radio",HitFM Radio
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/c677db904ec8a8a821a7be57a4ce2625-1.png" group-title="IPTV" tvg-name="IDJTV",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
 #EXTINF:-1 tvg-logo="https://www.radios.rs/images/radios/logo-170x100x2.png" group-title="IPTV" tvg-name="Radio S TV",Radio S TV
