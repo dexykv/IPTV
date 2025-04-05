@@ -24,8 +24,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="IPTV" tvg-name="DW",DW (2)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="IPTV" tvg-name="RT Español",RT Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://rt.rs/static/img/logo112x112.png" group-title="IPTV" tvg-name="RT Español",RT Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg" group-title="IPTV" tvg-name="Hispan TV Iran",Hispan TV Iran
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg" group-title="IPTV" tvg-name="Hispan TV Iran",Hispan TV Iran (1)
