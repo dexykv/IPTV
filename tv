@@ -20,6 +20,8 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://jmp2.uk/sam-ES260000968.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="IPTV" tvg-name="Euronews",Euronews (2)
 https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=555c3ef2-e579-11ef-913f-8e6401581819
+#EXTINF:-1 tvg-id="France 24" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="IPTV" tvg-name="France 24",France 24
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="IPTV" tvg-name="DW",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://rt.rs/static/img/logo112x112.png" group-title="IPTV" tvg-name="RT Español",RT Español
