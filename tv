@@ -1,7 +1,7 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="IPTV" tvg-name="N1 RS",N1 RS
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="IPTV" tvg-name="N1 BiH",N1 BiH
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="IPTV" tvg-name="N1 HR",N1 HR
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://novitreciput.org/wp-content/uploads/2020/08/Al-Jazeera-Balkans.jpg" group-title="IPTV" tvg-name="Al Jazeera Balkans",Al Jazeera Balkans
