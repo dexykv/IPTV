@@ -160,24 +160,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1758522981175754752/6DxX5Hbv_200x200.jpg" group-title="IPTV" tvg-name="Venus Media Paraguay",Venus Media Paraguay
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
-#EXTINF:-1 tvg logo="https://iptvx.one/picons/bridge-tv.png" group-title="IPTV" tvg-name="Bridge (EDTV 576p)",Bridge (EDTV 576p)
-http://195.26.83.96:7007/play/a00m/index.m3u8
-#EXTINF:-1 tvg logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="IPTV" tvg-name="Bridge Classic (EDTV 576p)",Bridge Classic (EDTV 576p)
-http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg logo="https://iptvx.one/picons/zhar-ptica.png" group-title="IPTV" tvg-name="Жар-Птица (EDTV 480p)",Жар-Птица (EDTV 480p)
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 tvg logo="https://iptvx.one/picons/muztv.png" group-title="IPTV" tvg-name="МузТВ (WSVGA)",МузТВ (WSVGA)
-http://stream01.vnet.am/MuzTv/mono.m3u8
-#EXTINF:-1 tvg logo="http://epg.one/img2/6266.png" group-title="IPTV" tvg-name="Музыка 1 Int",Музыка 1 Int
-http://autopilot.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 tvg logo="http://epg.one/img2/6268.png" group-title="IPTV" tvg-name="Музыка 2 Int",Музыка 2 Int
-http://autopilot.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg logo="http://epg.one/img2/6270.png" group-title="IPTV" tvg-name="Музыка Кино Int",Музыка Кино Int
-http://autopilot.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="IPTV" tvg-name="Музыка Первого (EDTV 576p)",Музыка Первого (EDTV 576p)
-http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
-#EXTINF:-1 tvg logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="IPTV" tvg-name="Страна FM",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8/wanda.m3u8?id=mKCieTImjvU
 #EXTINF:-1 tvg logo="https://yt3.ggpht.com/NRCQpVxbetuJyjtPjotQ4H7rq3nfFm0J2VEc2aBs7XQV7-lBFqZMfu2tGZNGOfl7TPPdQjCMxQ=s200" group-title="IPTV" tvg-name="RU TV",RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1 tvg logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="IPTV" tvg-name="Radio Italia TV",Radio Italia TV
