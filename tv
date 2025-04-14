@@ -12,95 +12,95 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png?20200618045421" group-title="GENERALISTAS" tvg-name="TV Hram",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="IPTV" tvg-name="Euronews",Euronews
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="Euronews",Euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMGY2ZjMzODAtNjc3Zi00OWM3LWIwZmEtNjMzYTczYjUwOWVmIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=0f6f3380-677f-49c7-b0fa-633a73b509ef&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="IPTV" tvg-name="Euronews",Euronews (1)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="Euronews",Euronews (1)
 https://jmp2.uk/sam-ES260000968.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="IPTV" tvg-name="Euronews",Euronews (2)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="Euronews",Euronews (2)
 https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=555c3ef2-e579-11ef-913f-8e6401581819
-#EXTINF:-1 tvg-id="France 24" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="IPTV" tvg-name="France 24 SD",France 24 SD
+#EXTINF:-1 tvg-id="France 24" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="INTERNATIONAL" tvg-name="France 24 SD",France 24 SD
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="France 24" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="IPTV" tvg-name="France 24 HD",France 24 HD
+#EXTINF:-1 tvg-id="France 24" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="INTERNATIONAL" tvg-name="France 24 HD",France 24 HD
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="IPTV" tvg-name="DW",DW
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="DW",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://rt.rs/static/img/logo112x112.png" group-title="IPTV" tvg-name="RT Español",RT Español
+#EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://rt.rs/static/img/logo112x112.png" group-title="INTERNATIONAL" tvg-name="RT Español",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg" group-title="IPTV" tvg-name="Hispan TV Iran",Hispan TV Iran
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg" group-title="INTERNATIONAL" tvg-name="Hispan TV Iran",Hispan TV Iran
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg" group-title="IPTV" tvg-name="Hispan TV Iran",Hispan TV Iran (1)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg" group-title="INTERNATIONAL" tvg-name="Hispan TV Iran",Hispan TV Iran (1)
 https://live.presstv.ir/hls/hispantv.m3u8
-#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN
+#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="INTERNATIONAL" tvg-name="CGTN",CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?
-#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN (1)
+#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="INTERNATIONAL" tvg-name="CGTN",CGTN (1)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
-#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="IPTV" tvg-name="CGTN",CGTN (2)
+#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="INTERNATIONAL" tvg-name="CGTN",CGTN (2)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="24h",24h
+#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="INTERNATIONAL" tvg-name="24h",24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="IPTV" tvg-name="24h",24h (1)
+#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="INTERNATIONAL" tvg-name="24h",24h (1)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg logo="https://i.imgur.com/ow1HArj.png" group-title="IPTV" tvg-name="TVE",TVE
+#EXTINF:-1 tvg logo="https://i.imgur.com/ow1HArj.png" group-title="INTERNATIONAL" tvg-name="TVE",TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="IPTV" tvg-name="La 1",La 1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="INTERNATIONAL" tvg-name="La 1",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="IPTV" tvg-name="La 2",La 2
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="La 2",La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-#EXTINF:-1 tvg logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="IPTV" tvg-name="El País",El País
+#EXTINF:-1 tvg logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="El País",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="IPTV" tvg-name="El Confidencial",El Confidencial
+#EXTINF:-1 tvg logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="El Confidencial",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="IPTV" tvg-name="Negocios TV",Negocios TV
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="INTERNATIONAL" tvg-name="Negocios TV",Negocios TV
 https://jmp2.uk/sam-ESBD3400001AA.m3u8
-#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="IPTV" tvg-name="Negocios TV",Negocios TV (1)
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="INTERNATIONAL" tvg-name="Negocios TV",Negocios TV (1)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 tvg logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="IPTV" tvg-name="¡HOLA! Play",¡HOLA! Play
+#EXTINF:-1 tvg logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="INTERNATIONAL" tvg-name="¡HOLA! Play",¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg logo="https://i.imgur.com/MJzuRAN.png" group-title="IPTV" tvg-name="RCN Mas+",RCN Mas+
+#EXTINF:-1 tvg logo="https://i.imgur.com/MJzuRAN.png" group-title="INTERNATIONAL" tvg-name="RCN Mas+",RCN Mas+
 https://rcntv-rcnmas-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg logo="https://i.imgur.com/MJzuRAN.png" group-title="IPTV" tvg-name="RCN Mas+ (2)",RCN Mas+ (2)
+#EXTINF:-1 tvg logo="https://i.imgur.com/MJzuRAN.png" group-title="INTERNATIONAL" tvg-name="RCN Mas+ (2)",RCN Mas+ (2)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DistroTVUS_83823" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-tv/logo_20231219_201258_66.png" group-title="IPTV",EstrellaTV
+#EXTINF:-1 tvg-id="DistroTVUS_83823" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-tv/logo_20231219_201258_66.png" group-title="INTERNATIONAL",EstrellaTV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8??c_producer=EstrellaTV&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=__DEVICE_MAKE__=&device_model=&us_privacy=__IS_CCPA__&coppa=0&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-#EXTINF:-1 tvg-id="DistroTVUS_83824" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-news/logo_20231219_201240_62.png" group-title="IPTV",Estrella News
+#EXTINF:-1 tvg-id="DistroTVUS_83824" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-news/logo_20231219_201240_62.png" group-title="INTERNATIONAL",Estrella News
 https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8?c_producer=EstrellaNews&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=__DEVICE_MAKE__&device_model=&us_privacy=__IS_CCPA__&coppa=0&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-#EXTINF:-1 tvg-id="DistroTVUS_83825" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-games/logo_20231219_201220_62.png" group-title="IPTV",Estrella Games
+#EXTINF:-1 tvg-id="DistroTVUS_83825" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-games/logo_20231219_201220_62.png" group-title="INTERNATIONAL",Estrella Games
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8??c_producer=EstrellaGames&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=__DEVICE_MAKE__&device_model=&us_privacy=__IS_CCPA__&coppa=0&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-#EXTINF:-1 tvg logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="IPTV" tvg-name="flooxer",flooxer
+#EXTINF:-1 tvg logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="IPTV" tvg-name="Noticias Caracol",Noticias Caracol
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="Noticias Caracol",Noticias Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="IPTV" tvg-name="ADN40",ADN40
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="INTERNATIONAL" tvg-name="ADN40",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200" group-title="IPTV" tvg-name="America TeVe USA",America TeVe USA
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="America TeVe USA",America TeVe USA
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="IPTV" tvg-name="Canal Once MX",Canal Once MX
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="Canal Once MX",Canal Once MX
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="IPTV" tvg-name="Milenio TV",Milenio TV
 http://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe17ac18aa35fc547b29aba81fa75421.webp" group-title="IPTV" tvg-name="Monterey TV6",Monterey TV6
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe17ac18aa35fc547b29aba81fa75421.webp" group-title="INTERNATIONAL" tvg-name="Monterey TV6",Monterey TV6
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_10_mx.png" group-title="IPTV" tvg-name="Canal 10",Canal 10
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_10_mx.png" group-title="INTERNATIONAL" tvg-name="Canal 10",Canal 10
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 tvg-id="US3000005RS" tvg-name="US3000005RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20241014T232258SQUARE.png" group-title="IPTV" tvg-name="Noticias Telemundo Ahora", Noticias Telemundo Ahora
+#EXTINF:-1 tvg-id="US3000005RS" tvg-name="US3000005RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20241014T232258SQUARE.png" group-title="INTERNATIONAL" tvg-name="Noticias Telemundo Ahora", Noticias Telemundo Ahora
 https://jmp2.uk/sam-US3000005RS.m3u8
-#EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title="IPTV" tvg-name="Noticias Univision 24/7", Noticias Univision 24/7
+#EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title="INTERNATIONAL" tvg-name="Noticias Univision 24/7", Noticias Univision 24/7
 https://jmp2.uk/sam-USBD1700014QU.m3u8
-#EXTINF:-1 tvg-id="ESBD1300004IG" tvg-name="ESBD1300004IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png" group-title="IPTV" tvg-name="Azteca Internacional", Azteca Internacional
+#EXTINF:-1 tvg-id="ESBD1300004IG" tvg-name="ESBD1300004IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png" group-title="INTERNATIONAL" tvg-name="Azteca Internacional", Azteca Internacional
 https://jmp2.uk/sam-ESBD1300004IG.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyw6BJl4O-KVIZtOaoKv9o3foYCEvuNpB15TyUC=s900-c-k-c0xffffffff-no-rj-mo" group-title="IPTV" tvg-name="Cali TV",Cali TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyw6BJl4O-KVIZtOaoKv9o3foYCEvuNpB15TyUC=s900-c-k-c0xffffffff-no-rj-mo" group-title="INTERNATIONAL" tvg-name="Cali TV",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="IPTV" tvg-name="CBN USA",CBN USA
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="CBN USA",CBN USA
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="DistroTVUS_118867" tvg-logo="https://a.jsrdn.com/hls/23135/always-funny-en-espanol/logo_20240521_224026_70.png" group-title="IPTV",Always Funny en Español
+#EXTINF:-1 tvg-id="DistroTVUS_118867" tvg-logo="https://a.jsrdn.com/hls/23135/always-funny-en-espanol/logo_20240521_224026_70.png" group-title="INTERNATIONAL",Always Funny en Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny-en-espanol/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23135&ads.content_duration=18000&ads.episode_id=118867&ads.show_id=4874&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CComedy%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Always%20Funny%20en%20Espa%C3%B1ol&ads.episodetitle=Always%20Funny%20en%20Espa%C3%B1ol&ads.keywords=Funny%2CLaugh%2CComedy%2CAFV%2CCute%2CWin%2CFail%2CViral%2CKids%2CPet%20Videos%2CAnimals%2CFamily%20Friendly%2CCute%20Moments%2CPranks%2CSports%20Fails%2CSpanish%2CEspanol%2CAmerica%27s%20Funniest%20Home%20Videos&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-#EXTINF:-1 tvg-id="DistroTVUS_42163" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20231219_201005_66.png" group-title="IPTV",El Conflicto TV
+#EXTINF:-1 tvg-id="DistroTVUS_42163" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20231219_201005_66.png" group-title="INTERNATIONAL",El Conflicto TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2252&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=El%20Conflicto%20TV&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__&ads.deviceIdType=__AID_TYPE__&ads.gdpr=__IS_GDPR__
-#EXTINF:-1 tvg-id="DistroTVUS_97419" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/logo_20231219_214756_68.png" group-title="IPTV",Kids TV Español Latino - Canciones Infantiles
+#EXTINF:-1 tvg-id="DistroTVUS_97419" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/logo_20231219_214756_68.png" group-title="INFANTILES",Kids TV Español Latino - Canciones Infantiles
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23186&ads.content_duration=18000&ads.episode_id=97419&ads.show_id=3458&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CFamily%2FChildren%2CAnimation%20%26%20Anime%2CSpanish&ads.showRating=TV-Y&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=Kids%20TV%20Espa%C3%B1ol%20Latino%20-%20Canciones%20Infantiles&ads.episodetitle=Kids%20TV%20Espa%C3%B1ol%20Latino%20-%20Canciones%20Infantiles&ads.keywords=Kids%2CKidsTV%2CNursery%20Rhymes%2CSongs%2CEspanol%2CSpanish%2CCanciones%20infantiles%2Ccanciones%20para%20beb%C3%A9s&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-#EXTINF:-1 tvg-id="DistroTVUS_118871" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-ninos/logo_20231219_223332_60.png" group-title="IPTV",ToonzKids niños
+#EXTINF:-1 tvg-id="DistroTVUS_118871" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-ninos/logo_20231219_223332_60.png" group-title="INFANTILES",ToonzKids niños
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23131&ads.content_duration=18000&ads.episode_id=118871&ads.show_id=4877&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CFamily%2FChildren%2CAnimation%20%26%20Anime%2CSpanish&ads.showRating=TV-Y&ads.episodeRating=TV-Y&ads.language=es&ads.showtitle=ToonzKids%20ni%C3%B1os&ads.episodetitle=ToonzKids%20ni%C3%B1os&ads.keywords=Animation%20for%20kids%2CCartoons%20for%20kids%2CKids%20shows%2CKids%20tv%20shows%2CToonzkids%2Cespanol&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-#EXTINF:-1 tvg-id="DistroTVUS_126124" tvg-logo="https://a.jsrdn.com/hls/22882/toon-goggles-en-espanol/logo_20240322_201153_68.png" group-title="IPTV",Toon Goggles en Español
+#EXTINF:-1 tvg-id="DistroTVUS_126124" tvg-logo="https://a.jsrdn.com/hls/22882/toon-goggles-en-espanol/logo_20240322_201153_68.png" group-title="INFANTILES",Toon Goggles en Español
 https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=266202&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126124&ads.show_id=5061&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-Y&ads.episodeRating=TV-Y&ads.language=es&ads.showtitle=Toon%20Goggles%20en%20Espa%C3%B1ol&ads.episodetitle=Toon%20Goggles%20en%20Espa%C3%B1ol&ads.keywords=toon%20goggles%2Ccartoon&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 tvg-id="DistroTVUS_119200" tvg-logo="https://a.jsrdn.com/hls/23077/romance-channel/logo_20231219_221635_53.png" group-title="IPTV",Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=119200&ads.show_id=4914&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CDrama%2CSpanish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=es&ads.showtitle=Romance%20Channel&ads.episodetitle=Romance%20Channel&ads.keywords=romance%2Cdrama%2Clove%2Cdestiny%2Cdream%2Cmovies%2Cseries%2Cnovel%2CTV%2Ccinemaromance%2Cdrama%2Camor%2Cdestino%2Censue%C3%B1o%2Cpel%C3%ADculas%2Cseries%2Cespa%C3%B1ol%2Cnovela%2CTV%2Ccine&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
