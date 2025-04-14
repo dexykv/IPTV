@@ -1,16 +1,16 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1902361817772642305/2GRsEy_f_400x400.jpg" group-title="IPTV" tvg-name="RT Balkan",RT Balkan
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1902361817772642305/2GRsEy_f_400x400.jpg" group-title="GENERALISTAS" tvg-name="RT Balkan",RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="IPTV" tvg-name="N1 BiH",N1 BiH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 BiH",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="IPTV" tvg-name="N1 HR",N1 HR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 HR",N1 HR
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 tvg-logo="https://novitreciput.org/wp-content/uploads/2020/08/Al-Jazeera-Balkans.jpg" group-title="IPTV" tvg-name="Al Jazeera Balkans",Al Jazeera Balkans
+#EXTINF:-1 tvg-logo="https://novitreciput.org/wp-content/uploads/2020/08/Al-Jazeera-Balkans.jpg" group-title="GENERALISTAS" tvg-name="Al Jazeera Balkans",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2020/04/kurir-tv-ok.png" group-title="IPTV" tvg-name="Kurir TV",Kurir TV
+#EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2020/04/kurir-tv-ok.png" group-title="GENERALISTAS" tvg-name="Kurir TV",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png?20200618045421" group-title="IPTV" tvg-name="TV Hram",TV Hram
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png?20200618045421" group-title="GENERALISTAS" tvg-name="TV Hram",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="IPTV" tvg-name="Euronews",Euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMGY2ZjMzODAtNjc3Zi00OWM3LWIwZmEtNjMzYTczYjUwOWVmIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=0f6f3380-677f-49c7-b0fa-633a73b509ef&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5
@@ -112,39 +112,39 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22864&ads.content_duration=18000&ads.episode_id=39398&ads.show_id=1189&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CDrama%2CSpanish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=GlewedTV%20Spanish&ads.episodetitle=GlewedTV%20Spanish&ads.keywords=glewedtv%2Cspanish%20entertainment%2Cespanol&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 tvg-id="DistroTVUS_55592" tvg-logo="https://a.jsrdn.com/hls/22963/wapptv/logo_20231219_224037_68.png" group-title=IPTV",WappTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22963&ads.content_duration=18000&ads.episode_id=55592&ads.show_id=1733&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=WappTV&ads.episodetitle=WappTV&ads.keywords=wapptv%2Cspanish%2Cespanol&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-#EXTINF:-1 tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="IPTV" tvg-name="Radio Lola [Not 24/7]",Radio Lola [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="GENERALISTAS" tvg-name="Radio Lola [Not 24/7]",Radio Lola [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://karolina.rs/wp-content/uploads/sites/2/2022/05/kr.png" group-title="IPTV" tvg-name="Karolina Radio",Karolina Radio
+#EXTINF:-1 tvg-logo="https://karolina.rs/wp-content/uploads/sites/2/2022/05/kr.png" group-title="GENERALISTAS" tvg-name="Karolina Radio",Karolina Radio
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 tvg-logo="https://hitfm.rs/wp-content/uploads/sites/3/2022/05/hitfm.png" group-title="IPTV" tvg-name="HitFM Radio",HitFM Radio
+#EXTINF:-1 tvg-logo="https://hitfm.rs/wp-content/uploads/sites/3/2022/05/hitfm.png" group-title="GENERALISTAS" tvg-name="HitFM Radio",HitFM Radio
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
-#EXTINF:-1 tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/c677db904ec8a8a821a7be57a4ce2625-1.png" group-title="IPTV" tvg-name="IDJTV",IDJTV
+#EXTINF:-1 tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/c677db904ec8a8a821a7be57a4ce2625-1.png" group-title="GENERALISTAS" tvg-name="IDJTV",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
-#EXTINF:-1 tvg-logo="https://www.radios.rs/images/radios/logo-170x100x2.png" group-title="IPTV" tvg-name="Radio S TV",Radio S TV
+#EXTINF:-1 tvg-logo="https://www.radios.rs/images/radios/logo-170x100x2.png" group-title="GENERALISTAS" tvg-name="Radio S TV",Radio S TV
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Jeka Serbia.rs",Muzzik Jeka Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Jeka Serbia.rs",Muzzik Jeka Serbia.rs
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik ZZ Serbia.rs",Muzzik ZZ Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik ZZ Serbia.rs",Muzzik ZZ Serbia.rs
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik TikTak Serbia.rs",Muzzik TikTak Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik TikTak Serbia.rs",Muzzik TikTak Serbia.rs
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik MOBA Serbia.rs",Muzzik MOBA Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik MOBA Serbia.rs",Muzzik MOBA Serbia.rs
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik RockRoll Serbia",Muzzik RockRoll Serbia
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik RockRoll Serbia",Muzzik RockRoll Serbia
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik TV Serbia.rs",Muzzik TV Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik TV Serbia.rs",Muzzik TV Serbia.rs
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Worldwide Serbia.rs",Muzzik Worldwide Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Worldwide Serbia.rs",Muzzik Worldwide Serbia.rs
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik PopStar Serbia.rs",Muzzik PopStar Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik PopStar Serbia.rs",Muzzik PopStar Serbia.rs
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Sense Serbia.rs",Muzzik Sense Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Sense Serbia.rs",Muzzik Sense Serbia.rs
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Mts Serbia.rs",Muzzik Mts Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Mts Serbia.rs",Muzzik Mts Serbia.rs
 https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="IPTV" tvg-name="Muzzik Flashback Serbia.rs",Muzzik Flashback Serbia.rs
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Flashback Serbia.rs",Muzzik Flashback Serbia.rs
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="IPTV" tvg-name="Muzzik ELECTRO Serbia.rs",Muzzik ELECTRO Serbia.rs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="GENERALISTAS" tvg-name="Muzzik ELECTRO Serbia.rs",Muzzik ELECTRO Serbia.rs
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" group-title="IPTV" tvg-name="Teleritmo",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
