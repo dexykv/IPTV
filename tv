@@ -38,9 +38,9 @@ https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-r
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="INTERNATIONAL" tvg-name="CGTN",CGTN (2)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="INTERNATIONAL" tvg-name="24h",24h
+#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="INTERNATIONAL" tvg-name="24h",24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="INTERNATIONAL" tvg-name="24h",24h (1)
+#EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="INTERNATIONAL" tvg-name="24h",24h (1)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/ow1HArj.png" group-title="INTERNATIONAL" tvg-name="TVE",TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
