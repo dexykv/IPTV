@@ -170,6 +170,10 @@ https://hls-03-video.webcaramba.com/rutv/live.m3u8
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" group-title="MUSICALES" tvg-name="m2o Italia",m2o Italia IT
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b228afd512590008c3d7d1/colorLogoPNG.png" group-title="MUSICALES" tvg-name="Pluto TV Hits France",Pluto TV Hits France
+https://stitcher.pluto.tv/stitch/hls/channel/66b228afd512590008c3d7d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f422109e-19d3-11f0-a682-7248aaa76877
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="MUSICALES" tvg-name="Pluto TV Love Songs",Pluto TV Love Songs
+https://stitcher.pluto.tv/stitch/hls/channel/619b80acac5329000740c022/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f422109e-19d3-11f0-a682-7248aaa76877
 #EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/Arabica-Music-Logo.png" group-title="MUSICALES" tvg-name="Arabica Music",Arabica Music
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="DistroTVUS_126108" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="MUSICALES",YRF Music
