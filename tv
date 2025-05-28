@@ -43,11 +43,11 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="INTERNATIONAL" tvg-name="CGTN",CGTN (2)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="INTERNATIONAL" tvg-name="24h",24h
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="INTERNATIONAL" tvg-name="24h",24h (1)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/ow1HArj.png" group-title="INTERNATIONAL" tvg-name="TVE",TVE
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="INTERNATIONAL" tvg-name="La 1",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="La 2",La 2
@@ -86,8 +86,6 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 http://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe17ac18aa35fc547b29aba81fa75421.webp" group-title="INTERNATIONAL" tvg-name="Monterey TV6",Monterey TV6
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_10_mx.png" group-title="INTERNATIONAL" tvg-name="Canal 10",Canal 10
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTINF:-1 tvg-id="US3000005RS" tvg-name="US3000005RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20241014T232258SQUARE.png" group-title="INTERNATIONAL" tvg-name="Noticias Telemundo Ahora", Noticias Telemundo Ahora
 https://jmp2.uk/sam-US3000005RS.m3u8
 #EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title="INTERNATIONAL" tvg-name="Noticias Univision 24/7", Noticias Univision 24/7
