@@ -49,7 +49,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/ow1HArj.png" group-title="INTERNATIONAL" tvg-name="TVE",TVE
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/800px-Logo_La_1.svg.png" group-title="INTERNATIONAL" tvg-name="La 1",La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="La 2",La 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="El País",El País
