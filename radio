@@ -174,5 +174,4 @@ https://5.restream.one/1252_1
 https://europaplus.hostingradio.ru:8030/ep128
 #EXTINF:-1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/rus.png" group-title="Radio Hit" tvg-name="Радио Русь",Радио Русь
 https://radio-holding.ru:9433/rus
-#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/46641.v2.png" group-title="Radio Hit" tvg-name="Radio Velika 92.2",Radio Velika 92.2
-http://s37.myradiostream.com:9192/;;
+
