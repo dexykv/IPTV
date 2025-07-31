@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://rt.rs/static/img/logo112x112.png" group-title="GENERALISTAS" tvg-name="RT Balkan",RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 SRB",N1 SRB
+https://sn.rs/n1stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 SRB (2)",N1 SRB (2)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=infon1&channel=n1srp&u=infon1&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 SRB GeoBlock",N1 SRB GeoBlock
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
