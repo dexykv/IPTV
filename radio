@@ -147,7 +147,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://tntmusic.ru/static/img/logo@x2.png" group-title="Radio Hit" tvg-name="ТНТ MUSIC RADIO",ТНТ MUSIC RADIO
 https://tntradio.hostingradio.ru:8027/tntradio128.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Radio Hit" tvg-name="Авторадио",Авторадио
-http://ic7.101.ru:8000/v3_1
+https://pub0201.101.ru/stream/air/aac/64/100
 #EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Radio Hit" tvg-name="Радио DFM",Радио DFM
 http://dfm.hostingradio.ru/dfm128.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Radio Hit" tvg-name="Дорожное Радио",Дорожное Радио
