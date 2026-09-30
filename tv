@@ -16,18 +16,12 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Nova_S_logo.png" group-title="GENERALISTAS" tvg-name="Nova RS GeoBlock",Nova RS GeoBlock
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:-1 tvg-logo="https://novitreciput.org/wp-content/uploads/2020/08/Al-Jazeera-Balkans.jpg" group-title="GENERALISTAS" tvg-name="Al Jazeera Balkans",Al Jazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2020/04/kurir-tv-ok.png" group-title="GENERALISTAS" tvg-name="Kurir TV",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png?20200618045421" group-title="GENERALISTAS" tvg-name="TV Hram",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="Euronews",Euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMGY2ZjMzODAtNjc3Zi00OWM3LWIwZmEtNjMzYTczYjUwOWVmIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=0f6f3380-677f-49c7-b0fa-633a73b509ef&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="Euronews",Euronews (1)
-https://jmp2.uk/sam-ES260000968.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="INTERNATIONAL" tvg-name="Euronews",Euronews (2)
-https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=555c3ef2-e579-11ef-913f-8e6401581819
 #EXTINF:-1 tvg-id="France 24" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="INTERNATIONAL" tvg-name="France 24 SD",France 24 SD
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="France 24" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="INTERNATIONAL" tvg-name="France 24 HD",France 24 HD
@@ -42,10 +36,6 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="INTERNATIONAL" tvg-name="CGTN",CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?
-#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="INTERNATIONAL" tvg-name="CGTN",CGTN (1)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
-#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="INTERNATIONAL" tvg-name="CGTN",CGTN (2)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="INTERNATIONAL" tvg-name="24h",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg logo="https://i.imgur.com/IUVRm5L.png" group-title="INTERNATIONAL" tvg-name="24h",24h (1)
@@ -126,30 +116,6 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
 #EXTINF:-1 tvg-logo="https://www.radios.rs/images/radios/logo-170x100x2.png" group-title="GENERALISTAS" tvg-name="Radio S TV",Radio S TV
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Jeka Serbia.rs",Muzzik Jeka Serbia.rs
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik ZZ Serbia.rs",Muzzik ZZ Serbia.rs
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik TikTak Serbia.rs",Muzzik TikTak Serbia.rs
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik MOBA Serbia.rs",Muzzik MOBA Serbia.rs
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik RockRoll Serbia",Muzzik RockRoll Serbia
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik TV Serbia.rs",Muzzik TV Serbia.rs
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Worldwide Serbia.rs",Muzzik Worldwide Serbia.rs
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik PopStar Serbia.rs",Muzzik PopStar Serbia.rs
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Sense Serbia.rs",Muzzik Sense Serbia.rs
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Mts Serbia.rs",Muzzik Mts Serbia.rs
-https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="GENERALISTAS" tvg-name="Muzzik Flashback Serbia.rs",Muzzik Flashback Serbia.rs
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="GENERALISTAS" tvg-name="Muzzik ELECTRO Serbia.rs",Muzzik ELECTRO Serbia.rs
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" group-title="MUSICALES" tvg-name="Teleritmo",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="DistroTVUS_116281" tvg-logo="https://a.jsrdn.com/hls/23040/la-bocina-latina/logo_20231219_214948_65.png" group-title="MUSICALES",La Bocina Latina
