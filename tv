@@ -7,8 +7,6 @@ https://sn.rs/n1stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 SRB (2)",N1 SRB (2)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=infon1&channel=n1srp&u=infon1&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 SRB GeoBlock",N1 SRB GeoBlock
-https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 SRB GeoBlock (2)",N1 SRB GeoBlock (2)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 BiH",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
@@ -16,6 +14,8 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Nova_S_logo.png" group-title="GENERALISTAS" tvg-name="Nova RS GeoBlock",Nova RS GeoBlock
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="GENERALISTAS" tvg-name="N1 SRB GeoBlock",N1 SRB GeoBlock
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2020/04/kurir-tv-ok.png" group-title="GENERALISTAS" tvg-name="Kurir TV",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png?20200618045421" group-title="GENERALISTAS" tvg-name="TV Hram",TV Hram
